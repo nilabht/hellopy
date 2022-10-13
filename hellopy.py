@@ -1,2 +1,2 @@
-def hello(req):
-    print(req)
+#def hello(req):
+print("codered")
