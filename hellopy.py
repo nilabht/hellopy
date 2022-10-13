@@ -1,1 +1,2 @@
-print("Hello world")
+def hello(req):
+    print(req)
